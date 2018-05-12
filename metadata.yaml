@@ -1,0 +1,41 @@
+_repo: Medi-val-Byways_42975
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kruger, George E.
+    gutenberg_agent_id: '41961'
+    url: http://www.gutenberg.org/2009/agents/41961
+covers:
+- cover_type: archival
+  image_path: 42975-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Salzman, L. F. (Louis Francis)
+    aliases:
+    - Salzmann, Louis Francis
+    - Salzmann, L. F. (Louis Francis)
+    - Salzmann, Louis F.
+    - Salzman, Louis Francis
+    birthdate: 1878
+    deathdate: 1971
+    gutenberg_agent_id: '41960'
+    url: http://www.gutenberg.org/2009/agents/41960
+    wikipedia: https://en.wikipedia.org/wiki/Louis_Francis_Salzman
+description: ''
+gutenberg_issued: '2013-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42975'
+  lccn: '14030090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Social life and customs -- 1066-1485'
+- !lcsh 'Civilization, Medieval'
+tableOfContents: Wise men, and others -- Highways -- Coronations -- Death and doctors
+  -- Those in authority -- Ivory and apes and peacocks.
+title: Mediæval Byways
+url: http://www.gutenberg.org/ebooks/42975
